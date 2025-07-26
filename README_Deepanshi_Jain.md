@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi there, I'm Deepanshi Jain! 👋</h1>
-<h3 align="center">AI/ML Engineer | Fullstack Developer | Building ProPath AI 🚀</h3>
+<h3 align="center">AI/ML Engineer 
 
 ---
 
 ## 🧬 About Me
 
 🎓 B.Tech student in Computer Science at JSS Academy of Technical Education (2022–2026)  
-💼 Passionate about AI, ML, LLMs, and fullstack product development  
+💼 Passionate about AI, ML, LLMs 
 🛠️ 500+ DSA problems solved | LeetCode 1640 rated | CodeChef 2⭐  
 🌍 Based in India | Exploring AI-powered tools for career success  
 
@@ -33,7 +33,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
 
 **Tools & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -73,7 +73,7 @@ Forecasts stock prices using deep learning time-series models.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/deepanshi-jain-12432a264)
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepanshii-jain-683b24249/)
 - 💻 [GitHub](https://github.com/deepanshiijain_24)
 - 📧 jaindeepanshi3103@gmail.com
 
