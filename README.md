@@ -62,14 +62,7 @@ Forecasts stock prices using deep learning time-series models.
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshiijain-24&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshiijain-24&theme=radical" width="45%" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
