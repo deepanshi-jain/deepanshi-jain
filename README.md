@@ -1,13 +1,14 @@
-
 <h1 align="center">Hi there, I'm Deepanshi Jain! 👋</h1>
-<h3 align="center">AI/ML Engineer 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;LLM+and+Vector+DB+Ninja" alt="Typing SVG" />
+</h3>
 
 ---
 
 ## 🧬 About Me
 
 🎓 B.Tech student in Computer Science at JSS Academy of Technical Education (2022–2026)  
-💼 Passionate about AI, ML, LLMs 
+💼 Passionate about AI, ML, LLMs  
 🛠️ 500+ DSA problems solved | LeetCode 1640 rated | CodeChef 2⭐  
 🌍 Based in India | Exploring AI-powered tools for career success  
 
@@ -34,7 +35,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-
 **Tools & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
@@ -43,26 +43,61 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
+## 🎯 Featured Projects
 
-## 🚀 Featured Projects
+🧠 **ProPath AI – Career Copilot Platform**  
+🔗 Link: [GitHub Repo](https://github.com/deepanshiijain_24/ProPathAI)
 
-### 🔹 [ProPath AI](https://github.com/deepanshiijain_24/ProPathAI)
-An AI-powered fullstack career assistant platform.  
-Built with GPT-4, LangChain, FastAPI, Pinecone, and Streamlit.  
-🔹 Resume Scorer, Mentor Persona Generator, Adaptive Mock Interviews, Career Timeline Generator  
-🔧 Dockerized, CI/CD with GitHub Actions, Hosted on AWS
+- Built a full-stack career assistant platform using GPT-4, LangChain, and FastAPI  
+- Developed **Resume Analyzer**, **Mentor Persona Generator**, **Career Timeline Extractor**  
+- Integrated **Adaptive Mock Interviews** powered by LangGraph and Streamlit  
+- Created **AI Resume Enhancer** that rewrites resumes with improvements and highlights  
+- Integrated **Pinecone** for vector search and career matching recommendations  
+- Dockerized the app with CI/CD pipelines using **GitHub Actions**  
+- Hosted on **AWS EC2**, supports scalable inference via FastAPI backend  
+- 📌 **Complete LLM + Vector DB + MLOps pipeline** from user upload to AI-driven outputs  
+- 🧰 **Tech Stack**: GPT-4, LangChain, FastAPI, Pinecone, Streamlit, Docker, AWS, GitHub Actions
 
-### 🔹 [Portfolio Risk Analysis Chatbot](https://github.com/deepanshiijain_24/Portfolio-Risk-Chatbot)
-Explains portfolio risks using Monte Carlo simulations and LLMs.  
-🔹 LangChain + Matplotlib + GPT-4 + NumPy
+---
 
-### 🔹 [Stock Price Prediction using LSTM](https://github.com/deepanshiijain_24/Stock-LSTM-Predictor)
-Forecasts stock prices using deep learning time-series models.  
-🔹 LSTM | PyTorch | Financial APIs
+📊 **Portfolio Risk Analysis Chatbot**  
+🔗 Link: [GitHub Repo](https://github.com/deepanshiijain_24/Portfolio-Risk-Chatbot)
+
+- Built an LLM-powered chatbot to explain financial risk in conversational style  
+- Used **Monte Carlo Simulations** to model risk distribution and potential losses  
+- Plotted Value at Risk (VaR) and Expected Shortfall with **Matplotlib**  
+- Used **LangChain** + GPT-4 for contextual risk explanation  
+- 📌 Enables easy understanding of investment risks through AI  
+- 🧰 **Tech Stack**: GPT-4, LangChain, NumPy, Matplotlib, Python
+
+---
+
+📈 **Stock Price Prediction using LSTM**  
+🔗 Link: [GitHub Repo](https://github.com/deepanshiijain_24/Stock-LSTM-Predictor)
+
+- Trained **LSTM neural networks** to predict stock prices from historical data  
+- Used real-time stock data from financial APIs for training and validation  
+- Visualized prediction vs actuals with **Matplotlib**  
+- Evaluated model performance using RMSE, MAE, and trend comparison  
+- 📌 Demonstrates AI use in time-series financial forecasting  
+- 🧰 **Tech Stack**: PyTorch, LSTM, Pandas, Matplotlib, Financial APIs
 
 ---
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deepanshi-jain&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshi-jain&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshi-jain&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
 
 ## 📫 Let's Connect
 
