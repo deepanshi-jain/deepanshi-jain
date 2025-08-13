@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Deepanshi Jain! 👋</h1>
+
 <h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer" alt="Typing SVG" />
 </h3>
+
 
 ---
 
