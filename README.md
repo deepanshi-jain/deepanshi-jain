@@ -48,7 +48,7 @@
 ## 🎯 Featured Projects
 
 🧠 **ProPath AI – Career Copilot Platform**  
-🔗 Link: [GitHub Repo](https://github.com/deepanshiijain_24/ProPathAI)
+🔗 Link: [GitHub Repo](https://github.com/deepanshi-jain/ProPathAI)
 
 - Built a full-stack career assistant platform using GPT-4, LangChain, and FastAPI  
 - Developed **Resume Analyzer**, **Mentor Persona Generator**, **Career Timeline Extractor**  
@@ -63,7 +63,7 @@
 ---
 
 📊 **Portfolio Risk Analysis Chatbot**  
-🔗 Link: [GitHub Repo](https://github.com/deepanshiijain_24/Portfolio-Risk-Chatbot)
+🔗 Link: [GitHub Repo](https://github.com/deepanshi-jain/Portfolio_Risk_Analysis)
 
 - Built an LLM-powered chatbot to explain financial risk in conversational style  
 - Used **Monte Carlo Simulations** to model risk distribution and potential losses  
@@ -75,7 +75,7 @@
 ---
 
 📈 **Stock Price Prediction using LSTM**  
-🔗 Link: [GitHub Repo](https://github.com/deepanshiijain_24/Stock-LSTM-Predictor)
+🔗 Link: [GitHub Repo](https://github.com/deepanshi-jain/Stock_Market_LSTM)
 
 - Trained **LSTM neural networks** to predict stock prices from historical data  
 - Used real-time stock data from financial APIs for training and validation  
