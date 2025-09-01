@@ -18,7 +18,7 @@
 
 ## 💼 Professional Highlights
 
-- 👩‍💻 **AI Engineer & Fullstack Developer**, currently building **ProPath AI** – a complete career copilot platform powered by LLMs and vector databases.
+- 👩‍💻 **AI Engineer**, currently building **ProPath AI** – a complete career copilot platform powered by LLMs and vector databases.
 - 🧠 Enthusiastic about NLP, CareerTech, and Generative AI applications.
 - 🏆 Certified in **Advanced Learning Algorithms** by DeepLearning.AI
 
