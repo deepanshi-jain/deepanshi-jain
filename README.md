@@ -12,6 +12,7 @@
 🎓 B.Tech student in Computer Science at JSS Academy of Technical Education (2022–2026)  
 💼 Passionate about AI, ML, LLMs  
 🛠️ 600+ DSA problems solved | LeetCode 1640 best rated| CodeChef 2⭐ | Codeforces 1130 
+
 🌍 Based in India | Exploring AI-powered tools for career success  
 
 ---
